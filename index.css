@@ -1,0 +1,34 @@
+#myCanvas
+{
+	margin-top:30px;
+	display: block ;
+	padding-left: 0; 
+	padding-right: 0; 
+	margin-left: auto; 
+	margin-right: auto;
+}
+
+#name
+{
+	color: blue;
+	font-size: 30px;
+	padding-left : 20px;
+	width : 208px;
+	background-color: red;
+	border-style: solid;
+	border-color: blue;
+}
+
+#h
+{
+	width : 545px;
+	margin-left: auto; 
+	margin-right: auto;
+	font-size: 30px;
+	color: blue;
+}
+
+body
+{
+	background-color: #f7c6cc;
+}
